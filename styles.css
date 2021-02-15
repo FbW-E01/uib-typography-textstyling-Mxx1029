@@ -37,6 +37,7 @@ blockquote {
 
 span {
     text-decoration: line-through;
+    text-transform: capitalize;
 }
 
 em {
